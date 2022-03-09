@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UltimateFinnish
+- 👋 Hi, I’m @UltimateFinnish, 22 year old male!
 - 👀 I’m interested in coding, nature, studying, fishing, a little bit of anything random to be completely honest. :)
 - 🌱 I’m currently learning Javascript on The Odin Project.
 - 📫 Email: ultimate.finnish@gmail.com
